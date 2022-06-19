@@ -4,6 +4,8 @@ description:        A Blog Theme by Start CodingStdy
 author:             Start Bootstrap
 baseurl:            "/ymh29022902-blog"
 url:                "https://ymh29022902.github.io/ymh29022902-blog/"
+future:              true
+published:           true 
 
 # Social Profiles
 twitter_username:   SBootstrap
